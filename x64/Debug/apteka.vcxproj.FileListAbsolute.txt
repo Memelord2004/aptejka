@@ -1,0 +1,2 @@
+D:\code\apteka\x64\Debug\apteka.exe
+D:\code\apteka\x64\Debug\apteka.pdb
