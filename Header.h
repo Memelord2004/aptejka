@@ -11,3 +11,4 @@ struct Lekarstva {
     string quanity; //количество товара на складе
     string id; // номер товара
 };
+
